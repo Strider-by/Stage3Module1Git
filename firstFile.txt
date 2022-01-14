@@ -1,7 +1,7 @@
 1 - 7: git_1: Update and commit 1.txt file, modify two lines.
 2 - 7: git_1: Update and commit 1.txt file, modify two lines.
-3
-4
+3 - 8: git_1: Update and commit 1.txt file, modify another two lines.
+4 - 8: git_1: Update and commit 1.txt file, modify another two lines.
 5
 6
 7
