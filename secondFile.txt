@@ -3,6 +3,8 @@
 3
 4 - 5: git_1: Update and commit the same 2 lines with the different info in secondFile.txt
 5 - 5: git_1: Update and commit the same 2 lines with the different info in secondFile.txt
+4 - 4: git_2: Update and commit any two lines in secondFile.txt.
+5 - 4: git_2: Update and commit any two lines in secondFile.txt.
 6
 7
 8
